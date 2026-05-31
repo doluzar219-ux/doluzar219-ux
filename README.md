@@ -1,16 +1,27 @@
-## Hi there 👋
+## ACCESS GRANTED.
 
-<!--
-**doluzar219-ux/doluzar219-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “ᴀꜱꜱᴇᴍʙʟʏ ɴᴇᴠᴇʀ ʟɪᴇꜱ.”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SYSTEM IDENTITY
+- 🧠 Role: Binary Archaeologist
+- 🧩 Focus: Reverse Engineering • Firmware • ARM Internals
+- ⚙️ Domain: Low-Level Systems / Embedded Analysis
+- 🕳️ Specialization: Deobfuscation • Static Analysis • ELF Inspection
+
+---
+
+### ACTIVE STATUS
+- 🔭 Working on: Understanding systems without source code
+- 🌱 Learning: Deeper ARM internals, exploit patterns, firmware behavior
+- 👯 Collaborating: Binary analysis / reverse engineering research
+- 🤔 Seeking: Complex systems, broken logic, hidden behavior
+- 💬 Ask me about: Assembly, binaries, or anything that shouldn’t be readable
+- 📫 Contact: [REDACTED]
+- 😄 Pronouns: /dev/null
+- ⚡ Fun fact: Software reveals more when it thinks no one is watching
+
+---
+
+### OPERATING PRINCIPLE
